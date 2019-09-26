@@ -1,6 +1,6 @@
 1. included are System Context and Container diagrams as described by Simone Brown c4model.com
 1. diagrams created in draw.io using Tobias Hochgürtel's plugin https://github.com/tobiashochguertel/c4-draw.io
-1. diagram can be viewed by clicking [Here](https://www.draw.io/#Hmasoudamri%2FSDEChallenge%2Fsolution%2Fanalytics-arch%2Fanalytics-arch.drawio) or [Here] (https://www.draw.io/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmasoudamri%2FSDEChallenge%2Fsolution%2Fanalytics-arch%2Fanalytics-arch.drawio) if you don't want to sign into github
+1. diagram can be viewed by clicking [Here](https://www.draw.io/#Hmasoudamri%2FSDEChallenge%2Fsolution%2Fanalytics-arch%2Fanalytics-arch.drawio) or [Here](https://www.draw.io/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmasoudamri%2FSDEChallenge%2Fsolution%2Fanalytics-arch%2Fanalytics-arch.drawio) if you don't want to sign into github
 1. above link depends on github repository and branch name!
 1. reprocessing of informatioon can be achived manually by user via presentation web app or by inserting identifiers into appropriate queues
 1. 'Peresistent Queue' is distributed, HA, durable, and allows for multiple consumers, and at least once semantics
