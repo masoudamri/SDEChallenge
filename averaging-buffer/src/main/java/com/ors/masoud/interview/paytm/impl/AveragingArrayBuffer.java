@@ -12,8 +12,8 @@ import com.ors.masoud.interview.paytm.AveragingBuffer;
 /**Array based implementation
  * of {@link AveragingBuffer}
  * 
- * Constructor takes lambda to metric
- * elements as argument.
+ * Constructor takes metric over elements
+ * as a lambda argument.
  * 
  * If comparing buffers to one another(hashCode/equals),
  * please refrain from defining the metrics
